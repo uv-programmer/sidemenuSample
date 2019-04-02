@@ -1,0 +1,16 @@
+PODS:
+  - SideMenuSwift (1.0.1)
+
+DEPENDENCIES:
+  - SideMenuSwift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SideMenuSwift
+
+SPEC CHECKSUMS:
+  SideMenuSwift: a78d47182aa03b5c07570fe57d3ba22c4561f2ce
+
+PODFILE CHECKSUM: c65f0524ece1ac3c829904dfb19a1bc7a85391fa
+
+COCOAPODS: 1.5.3
